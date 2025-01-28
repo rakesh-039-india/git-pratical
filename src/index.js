@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log("version56");
+console.log("version54");
